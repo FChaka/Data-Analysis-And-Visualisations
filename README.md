@@ -4,4 +4,4 @@ Welcome to my data analysis projects repository! This repository contains a coll
 ## About the Projects
 Each project is contained within its own folder, making it easy to navigate and explore the specific analysis you're interested in. The notebooks include detailed explanations, code, and visualizations, providing insights into my thought process and methodology.
 
-Feel free to explore the projects at your own pace. You can browse through the repository and open any .ipynb file to delve into a specific project. Each notebook is accompanied by the necessary data files, ensuring reproducibility and ease of execution.
+
